@@ -10,7 +10,7 @@ const AboutPage = () => {
         <p>This is a react app to leave feedback for a product or service</p>
         <p>Version: 1.0.0</p>
         <p>
-          <Link to="/">Back to Homepage</Link>{" "}
+          <Link to="/">Back to Homepage</Link>
         </p>
       </div>
     </Card>
